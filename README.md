@@ -63,7 +63,7 @@ Currently solving DSA problems primarily using:
 ## 🔗 Profiles
 
 - 💻 **GitHub:** [Lokesh-github07](https://github.com/Lokesh-github07)
-- 🧩 **LeetCode:** Add your LeetCode profile here
+- 🧩 **LeetCode:**[Loki_Leet07](https://leetcode.com/u/Loki_Leet07/)
 
 ---
 
