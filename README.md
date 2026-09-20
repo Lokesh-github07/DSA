@@ -48,7 +48,7 @@ My goal is not just to solve problems, but to understand **why the solution work
 
 My solutions are continuously added to this repository as I practice.
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=github-compact&hide_border=true)
+![DSA](https://fabianocouto-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=github-compact&hide_border=true)
 
 ---
 
