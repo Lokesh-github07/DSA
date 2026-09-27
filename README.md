@@ -46,17 +46,20 @@ My goal is not just to solve problems, but to understand **why the solution work
 
 ## 📈 GitHub Activity
 
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/Lokesh-github07/DSA?style=flat-square&logo=github)](https://github.com/Lokesh-github07/DSA/commits)
+
 My solutions are continuously added to this repository as I practice.
 
 ![DSA](https://fabianocouto-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=github-compact&hide_border=true)
 
 ---
 
-## 💻 Language
+## 💻 Language & Platform
 
 Currently solving DSA problems primarily using:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
