@@ -50,6 +50,8 @@ My goal is not just to solve problems, but to understand **why the solution work
 
 My solutions are continuously added to this repository as I practice.
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Loki_Leet07?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/Loki_Leet07/)
+
 ![DSA](https://fabianocouto-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=github-compact&hide_border=true)
 
 ---
