@@ -46,7 +46,8 @@ My goal is not just to solve problems, but to understand **why the solution work
 
 ## 📈 GitHub Activity
 
-[![GitHub Commits](https://img.shields.io/github/commit-activity/t/Lokesh-github07/DSA?style=flat-square&logo=github)](https://github.com/Lokesh-github07/DSA/commits)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/Lokesh-github07/DSA?style=flat-square&logo=github)](https://github.com/Lokesh-github07/DSA/commits)  ![Repository Views](https://komarev.com/ghpvc/?username=Lokesh-github07&repo=DSA&label=Repository%20Views&color=blue&style=flat)
+
 
 My solutions are continuously added to this repository as I practice.
 
